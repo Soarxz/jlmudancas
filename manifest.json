@@ -1,0 +1,22 @@
+{
+    "name": "JL Mudanças & Fretes",
+    "short_name": "JL Mudanças",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#1e293b",
+    "theme_color": "#1e293b",
+    "description": "Site institucional de mudanças e fretes em Campinas. SEO local, leve, responsivo e otimizado.",
+    "icons": [
+      {
+        "src": "/icons/icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/icons/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
